@@ -26,7 +26,7 @@
     <version>1.3.9</version>
   </parent>
   <artifactId>phenotips-integration-lims247</artifactId>
-  <version>1.2-gene42-SNAPSHOT</version>
+  <version>1.2-gene42</version>
   <packaging>pom</packaging>
   <name>PhenoTips - LIMS 24/7 Integration</name>
 
@@ -103,4 +103,8 @@
     <module>api</module>
     <module>ui</module>
   </modules>
+
+  <scm>
+    <tag>phenotips-integration-lims247-1.2-gene42</tag>
+  </scm>
 </project>
